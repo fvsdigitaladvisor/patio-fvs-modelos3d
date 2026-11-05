@@ -42,4 +42,4 @@ Marcas, nomes e desenhos dos veículos pertencem aos seus fabricantes.
 | yaris | 2001 Toyota Yaris | Dave Love SketchFab | https://sketchfab.com/3d-models/443fd49eb0844557a06854cae0b61267 |
 | trx | 2021 Ram 1500 TRX | 007 (@tangwang920) | https://sketchfab.com/3d-models/d5dda94744b240d3b29c62c392155320 |
 | xc60 | 2023 Volvo XC60 Recharge | Nazh Design (@NazhDesign) | https://sketchfab.com/3d-models/c35ef02fd38b48adadc17f117a4a518c |
-| bugatti | 2021 Bugatti Chiron Super Sport 300+ (tela de entrada; portas recortadas e animadas pela plataforma) | 007 (@tangwang920) | https://sketchfab.com/3d-models/e1ddae342f7d4fabba30d8e0915213f5 |
+| bugatti | 2020 Bugatti Chiron Sport (tela de entrada; portas, faróis e cores animados pela plataforma) | Res1n | https://sketchfab.com/3d-models/991b66dc000547c4a7e8a94f41a3a592 |
